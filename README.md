@@ -23,7 +23,7 @@ Jupyter Lab can be started by:
 1. activiting your developer environment in Terminal or Git Bash
 2. type "jupyter lab" press enter
 
-![JupyterLab](https://raw.githubusercontent.com/nielsdehaan1977/Fintech_Module3/main/JupyterLab.PNG)
+![JupyterLab](https://github.com/nielsdehaan1977/Fintech_Module3/blob/main/Images/JupyterLab.PNG)
 
 ## Usage
 
@@ -41,7 +41,7 @@ The Application is build in a way that you can set specific periods and single d
 * date2
 * date3
 
-![Date_Period_Variables](https://raw.githubusercontent.com/nielsdehaan1977/Fintech_Module3/main/Date_Period_Variables.PNG)
+![Date_Period_Variables](https://github.com/nielsdehaan1977/Fintech_Module3/blob/main/Images/Date_Period_Variables.PNG)
 
 
 ## Contributors
