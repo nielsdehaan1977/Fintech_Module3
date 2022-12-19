@@ -1,6 +1,20 @@
 # Fintech_Module3
 ---
-## Technologies
+
+## Crypto Arbitrage Opportunities Analysis
+
+---
+## Table of content
+
+1. [Tech](#tech)
+2. [Installation Guide](#installation-guide)
+3. [Usage](#usage)
+4. [Contributors](#contributors)
+5. [License](#license)
+
+---
+
+## Tech
 
 This project leverages python 3.9 with the following packages:
 
